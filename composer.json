@@ -4,7 +4,8 @@
   "require": {
     "dotsquares/module-core": "*"
   },
-  {"minimum-stability": "dev"},
+  "minimum-stability" : "dev",
+  "prefer-stable" : true,
   "type": "magento2-module",
   "version": "2.0.0",
   "license": "Mageplaza License",
