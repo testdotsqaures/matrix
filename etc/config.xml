@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Store:etc/config.xsd">
+    <default>
+       <carriers>
+            <dotsquares>
+                <active>0</active>
+				<sallowspecific>0</sallowspecific>
+                <model>Dotsquares\Shipping\Model\Carrier\Condition</model>
+                <title>Dot Shipping Method</title>
+                <errormsg>This shipping method is not available. To use this shipping method, please contact us.</errormsg>
+				<handling_type>F</handling_type>
+            </dotsquares>
+        </carriers>
+    </default>
+</config>
