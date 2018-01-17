@@ -1,5 +1,5 @@
 {
-    "name": "dotsquares/shipping",
+    "name": "testdotsquares/matrix",
     "description": "Magento Shipping Multiple Table Rates - MatrixRate",
     "minimum-stability": "dev",
     "require": {
