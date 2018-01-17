@@ -2,7 +2,7 @@
     "name": "dotsquares/shipping",
     "description": "Magento Shipping Multiple Table Rates - MatrixRate",
     "require": {
-        "php": "~5.5.0|~5.6.0|~7.0.0"
+        "dotsquares/shipping": "*"
     },
     "minimum-stability": "dev",
     "type": "magento2-module",
